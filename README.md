@@ -12,7 +12,7 @@ A lightweight, grep-like searcher written in Rust that uses a gremlin to finds p
 
 ## Installation
 
-To install `gremlin`, you can download the binaries [here](https://github.com/asg5704/gremlin/releases). Remember to puth the path to the binary in your `PATH`.
+To install `gremlin`, you can download the binaries [here](https://github.com/asg5704/gremlin/releases). Remember to put the path to the binary in your `PATH`.
 
 ## Usage
 
